@@ -7,3 +7,8 @@ green
 blue
 purple
 colors of the the rainbow
+
+
+These colors are boring 
+
+The end 

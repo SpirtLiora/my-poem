@@ -1,8 +1,9 @@
 The Rainbow
 
 red
-orange
 yellow
+orange
 green
 blue
 purple
+colors of the the rainbow

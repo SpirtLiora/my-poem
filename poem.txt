@@ -7,3 +7,5 @@ green
 blue
 purple
 colors of the the rainbow
+the grass is green
+the sky is blue
